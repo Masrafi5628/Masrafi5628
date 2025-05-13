@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left"><b>Md. Masrafi Bin Seraj | Full Stack Developer | Problem Solver | 3x ICPC Regionalist</b>b><br><br>🚀 Currently working as a Junior Software Engineer at ByteCode Limited, with a strong focus on full-stack development.<br>🤖 Deeply passionate about AI, ML, and DL — constantly exploring cutting-edge research and tech.<br>🌱 Always learning, coding, and contributing to innovative projects in my downtime.</p>
+<p align="left"><b>Md. Masrafi Bin Seraj | Full Stack Developer | Problem Solver | 3x ICPC Regionalist</b><br><br>🚀 Currently working as a Junior Software Engineer at ByteCode Limited, with a strong focus on full-stack development.<br>🤖 Deeply passionate about AI, ML, and DL — constantly exploring cutting-edge research and tech.<br>🌱 Always learning, coding, and contributing to innovative projects in my downtime.</p>
 
 ###
 
