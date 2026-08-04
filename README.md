@@ -186,8 +186,5 @@
 
 ###
 
-<div align="center">
-<i>"Inna ma'al usri yusra" — Indeed, with hardship comes ease.</i>
-</div>
 
 ###
