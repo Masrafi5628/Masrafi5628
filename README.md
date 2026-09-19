@@ -6,16 +6,8 @@
 
 <h1 align="center">As-salaamu Alaikum! 👋</h1>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Masrafi5628/count.svg?"  />
-</div>
-
-###
-
 <p align="left">
-<b>Md. Masrafi Bin Seraj Sakib</b><br>
+<b>Md. Masrafi Bin Seraj</b><br>
 <i>Lecturer · Researcher · Full-Stack Developer · 3× ICPC Asia Regionalist</i>
 <br><br>
 🎓 <b>Lecturer</b>, Department of Computer Science and Engineering at <b>Bangladesh Army University of Science and Technology (BAUSTK)</b><br>
