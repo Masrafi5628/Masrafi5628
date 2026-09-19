@@ -1,182 +1,204 @@
 <div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDZpankxaXdxOGdyMjM1dDNnN2Rua2Npa21yb2ppbTh5bDVuNGxiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif"  />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:25D366&height=220&section=header&text=As-salaamu%20Alaikum!%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I'm%20Md.%20Masrafi%20Bin%20Seraj&descAlignY=58&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Lecturer+%40+BAUSTK;Researcher+in+ML%2C+DL+%26+Climate-Health+Analytics;Full-Stack+Developer+(.NET+%7C+MERN+%7C+Next.js);3x+ICPC+Asia+Regionalist;Open+to+Research+Collaborations!" alt="Typing SVG" />
+
 </div>
 
-###
+<br/>
 
-<h1 align="center">As-salaamu Alaikum! 👋</h1>
+## 👨‍🏫 About Me
 
-<p align="left">
-<b>Md. Masrafi Bin Seraj</b><br>
-<i>Lecturer · Researcher · Full-Stack Developer · 3× ICPC Asia Regionalist</i>
-<br><br>
-🎓 <b>Lecturer</b>, Department of Computer Science and Engineering at <b>Bangladesh Army University of Science and Technology (BAUSTK)</b><br>
-🔬 Researching <b>Machine Learning</b>, <b>Deep Learning</b>, <b>Computer Vision</b>, and <b>Applied Climate-Health Analytics</b><br>
-💻 Background in full-stack development (<b>.NET, MERN, Next.js</b>) and competitive programming<br>
-✉️ Open to research collaborations
-</p>
+<table>
+<tr>
+<td width="60%" valign="top">
 
-###
+- 🎓 **Lecturer**, Department of Computer Science and Engineering, **Bangladesh Army University of Science and Technology (BAUSTK)**
+- 🔬 Researching **Machine Learning**, **Deep Learning**, **Computer Vision**, and **Applied Climate-Health Analytics**
+- 💻 Full-stack development background — **.NET, MERN, Next.js**
+- 🏆 **3× ICPC Asia Regionalist** — competitive programming enthusiast
+- ✉️ Open to **research collaborations**
+- 📍 Based in Khulna, Bangladesh
 
-<h3 align="left">🌐 Connect with me</h3>
+</td>
+<td width="40%" align="center">
 
-###
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDZpankxaXdxOGdyMjM1dDNnN2Rua2Npa21yb2ppbTh5bDVuNGxiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif" width="260" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://orcid.org/0009-0004-7461-7174" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=ORCID&logo=orcid&label=&color=A6CE39&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="orcid logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/masrafi-cse19" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://codeforces.com/profile/cosec_x" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codeforces logo"  />
-  </a>
-  <a href="https://wa.me/qr/QXC5AHIP6YMMM1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
-  <a href="mailto:masrafi.cse@baustkhulna.ac.bd" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Academic%20Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="academic email logo"  />
-  </a>
-  <a href="mailto:masrafi190116@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Personal%20Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="personal email logo"  />
-  </a>
+
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-7461-7174)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masrafi-cse19)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/cosec_x)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/QXC5AHIP6YMMM1)
+[![Academic Email](https://img.shields.io/badge/Academic%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:masrafi.cse@baustkhulna.ac.bd)
+[![Personal Email](https://img.shields.io/badge/Personal%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:masrafi190116@gmail.com)
+
 </div>
 
-###
+---
 
-<h3 align="left">📚 Featured Publications</h3>
+## 📚 Featured Publications
 
-###
+> 📄 **Sakib, M.M.B.S.**, & Khandaker, N.R. *(under review)*. **Long-term trends in physiological heat stress and associated health risks in Khulna, Bangladesh: A Mann-Kendall analysis using ERA5 reanalysis data (2000–2025)**. *GeoHealth*.
 
-<p align="left">
-📄 <b>Sakib, M.M.B.S.</b>, & Khandaker, N.R. (under review). <i>Long-term trends in physiological heat stress and associated health risks in Khulna, Bangladesh: A Mann-Kendall analysis using ERA5 reanalysis data (2000–2025)</i>. <b>GeoHealth</b>.
-<br><br>
-📘 Siddique, M.M., <b>Sakib, M.M.B.S.</b> [as Seraj, M.M.B.], Adnan, M.N., & Galib, S.M. (2024). <i>Artificial Intelligence for Infectious Disease Detection: Prospects and Challenges</i>. In: <i>Surveillance, Prevention, and Control of Infectious Diseases</i>, <b>Springer</b>, Cham. <a href="https://doi.org/10.1007/978-3-031-59967-5_1">DOI</a>
-</p>
+> 📘 Siddique, M.M., **Sakib, M.M.B.S.** *(as Seraj, M.M.B.)*, Adnan, M.N., & Galib, S.M. (2024). **Artificial Intelligence for Infectious Disease Detection: Prospects and Challenges**. In: *Surveillance, Prevention, and Control of Infectious Diseases*, **Springer**, Cham. [![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--3--031--59967--5__1-blue?style=flat-square)](https://doi.org/10.1007/978-3-031-59967-5_1)
 
-###
+---
 
-<h3 align="left">🚀 Featured Projects</h3>
-
-###
-
-<p align="left">
-🎓 <a href="https://github.com/Masrafi5628/TrainTrack"><b>TrainTrack</b></a> — Training Management System built with Next.js + ASP.NET Core + SQL Server<br>
-🤖 <a href="https://github.com/Masrafi5628/Smart-Personal-Assistant"><b>Smart Personal Assistant</b></a> — Python-based desktop assistant with voice commands and image processing<br>
-🌱 <a href="https://github.com/Masrafi5628/cs24-p2-JUST_Paraffin"><b>EcoSync</b></a> — MERN-stack waste management platform for a cleaner Dhaka<br>
-🏛️ <a href="https://github.com/Masrafi5628/PublicProjectMonitoringSystem"><b>Public Project Monitoring System</b></a> — Citizen-facing government project tracker (PHP + MySQL)<br>
-🏦 <a href="https://github.com/Masrafi5628/SafeDepositSystem"><b>Bank Safe Deposit System</b></a> — Banking management application with secure transaction logging
-</p>
-
-###
-
-<h3 align="left">🛠️ Languages & Tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-</div>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-</div>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-</div>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
-
-<h3 align="left">📊 GitHub Stats</h3>
-
-###
+## 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Masrafi5628&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masrafi5628&layout=compact&theme=tokyonight&hide_border=false" height="180" alt="top languages" />
+
+<a href="https://github.com/Masrafi5628/TrainTrack">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Masrafi5628&repo=TrainTrack&theme=tokyonight&hide_border=false" />
+</a>
+<a href="https://github.com/Masrafi5628/Smart-Personal-Assistant">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Masrafi5628&repo=Smart-Personal-Assistant&theme=tokyonight&hide_border=false" />
+</a>
+<br/>
+<a href="https://github.com/Masrafi5628/cs24-p2-JUST_Paraffin">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Masrafi5628&repo=cs24-p2-JUST_Paraffin&theme=tokyonight&hide_border=false" />
+</a>
+<a href="https://github.com/Masrafi5628/PublicProjectMonitoringSystem">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Masrafi5628&repo=PublicProjectMonitoringSystem&theme=tokyonight&hide_border=false" />
+</a>
+<br/>
+<a href="https://github.com/Masrafi5628/SafeDepositSystem">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Masrafi5628&repo=SafeDepositSystem&theme=tokyonight&hide_border=false" />
+</a>
+
 </div>
 
-###
+<details>
+<summary><b>📋 Project details (click to expand)</b></summary>
+<br/>
+
+| Project | Description | Stack |
+|---|---|---|
+| 🎓 [**TrainTrack**](https://github.com/Masrafi5628/TrainTrack) | Training Management System | Next.js · ASP.NET Core · SQL Server |
+| 🤖 [**Smart Personal Assistant**](https://github.com/Masrafi5628/Smart-Personal-Assistant) | Desktop assistant with voice commands & image processing | Python |
+| 🌱 [**EcoSync**](https://github.com/Masrafi5628/cs24-p2-JUST_Paraffin) | Waste management platform for a cleaner Dhaka | MERN Stack |
+| 🏛️ [**Public Project Monitoring System**](https://github.com/Masrafi5628/PublicProjectMonitoringSystem) | Citizen-facing government project tracker | PHP · MySQL |
+| 🏦 [**Bank Safe Deposit System**](https://github.com/Masrafi5628/SafeDepositSystem) | Banking management app with secure transaction logging | — |
+
+</details>
+
+---
+
+## 🛠️ Languages & Tools
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Masrafi5628&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
+
+**Languages**
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cpp" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />
+
+<br/><br/>
+
+**Frameworks & Web**
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dotnet" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwind" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap" />
+
+<br/><br/>
+
+**ML / Data Science**
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter" />
+
+<br/><br/>
+
+**Databases & DevOps**
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sqlserver" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
+
 </div>
 
-###
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmgwYmMwd2VyNzUyNGdmcXZ5Y3EwYzN4MTZ2dDZhb2EyZnJndGtudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif"  />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Masrafi5628&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="github stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masrafi5628&layout=compact&theme=tokyonight&hide_border=false" height="180" alt="top languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Masrafi5628&theme=tokyonight&hide_border=false&border_radius=5" height="180" alt="streak graph" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Masrafi5628&theme=tokyo-night&hide_border=false&area=true" width="90%" alt="activity graph"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Masrafi5628&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="trophies"/>
+
 </div>
 
-###
+---
 
+<div align="center">
 
-###
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Masrafi5628/Masrafi5628/output/github-contribution-grid-snake.svg" alt="snake contribution graph" width="90%"/>
+
+<sub>To activate this animation, add the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to this repo — it auto-generates the snake SVG above from your contribution graph.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmgwYmMwd2VyNzUyNGdmcXZ5Y3EwYzN4MTZ2dDZhb2EyZnJndGtudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif" height="200" />
+
+<br/>
+
+**Thanks for stopping by — let's connect and build something great together!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:25D366,100:0077B5&height=100&section=footer" width="100%"/>
+
+</div>
